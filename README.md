@@ -7,8 +7,7 @@ Welcome to the **Farmers Crop Prediction Website**! This platform is designed to
 
 🚀 **Check out the live version of Farmers Crop Prediction Website!** 🚀
 
-[![Live Application](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)]
-(https://crop-prediction-farming-website.vercel.app/).
+[![Live Application](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://crop-prediction-farming-website.vercel.app/).
 
 ## Features
 
