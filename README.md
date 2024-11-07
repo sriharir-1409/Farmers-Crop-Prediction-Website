@@ -3,8 +3,12 @@
 
 Welcome to the **Farmers Crop Prediction Website**! This platform is designed to help farmers and agricultural enthusiasts determine the best crops to plant based on their soil type and season, providing useful insights on crop details, potential diseases, government policies, and other essential information.
 
-## Website Link
-You can access the live website [here](https://crop-prediction-farming-website.vercel.app/).
+## Deployed Application
+
+🚀 **Check out the live version of Farmers Crop Prediction Website!** 🚀
+
+[![Live Application](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)]
+(https://crop-prediction-farming-website.vercel.app/).
 
 ## Features
 
